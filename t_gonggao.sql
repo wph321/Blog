@@ -1,0 +1,1 @@
+INSERT INTO `t_gonggao` (`gonggao_id`, `gonggao_title`, `gonggao_content`, `gonggao_data`, `gonggao_fabuzhe`, `gonggao_del`) VALUES (1, '公告测试公告测试公告测试公告测试', '公告测试公告测试公告测试公告测试公告测试', '2017-3-21 22:45:09', NULL, NULL);

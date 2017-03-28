@@ -1,0 +1,1 @@
+INSERT INTO `t_user` (`user_id`, `user_name`, `user_pw`, `user_realname`, `user_address`, `user_sex`, `user_tel`, `user_email`, `user_qq`, `fujian`, `fangwenliang`, `user_del`) VALUES (1, '123123', '123123', '123123', '123123', '男', '123123', '123123@123.com', '123123', '/upload/1490107474122.gif', 7, 'no');
